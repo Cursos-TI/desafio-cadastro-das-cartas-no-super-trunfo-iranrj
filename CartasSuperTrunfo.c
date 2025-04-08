@@ -65,8 +65,8 @@ int main(){
 	//Mostrar resultados
 	printf("Carta 1:\nEstado: %c\ncodigo: %c%s\nNome da Cidade: %s\nPopulação: %d\nArea: %.3f\nPIB: %.3f\nNumero de Pontos Turisticos: %d\n", estado, estado, codigoC, Ncidade, populacao, areakm, PIB, pontotu);
 	printf("--\n");
-    printf("Carta 2:\nEstado: %c\ncodigo: %c%s\nNome da Cidade: %s\nPopulação: %d\nArea: %.3f\nPIB: %.3f\nNumero de Pontos Turisticos: %d", estado1, estado1, codigoC1, Ncidade1, populacao1, areakm1, PIB1, pontotu1);
+        printf("Carta 2:\nEstado: %c\ncodigo: %c%s\nNome da Cidade: %s\nPopulação: %d\nArea: %.3f\nPIB: %.3f\nNumero de Pontos Turisticos: %d", estado1, estado1, codigoC1, Ncidade1, populacao1, areakm1, PIB1, pontotu1);
 	
-    return 0;
+        return 0;
 	
 }
